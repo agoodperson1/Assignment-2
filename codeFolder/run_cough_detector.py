@@ -35,7 +35,7 @@ import scipy as sp
 # We should be able to just change the name of the module below to the name of your module, and then
 # run this code (assuming we've installed the necessary packages).  E.g.:
 #   from your_folder.your_module import train_cough_detector, run_cough detector, save_cough_detector, load_cough_detector
-from examples.dummy_cough_detector import (
+from dummy_cough_detector import (
     train_cough_detector,
     run_cough_detector,
     save_cough_detector,
